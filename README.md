@@ -1,5 +1,5 @@
-##REad me file ##
-About project
-123 my changes
-for new bracnch
-my row for develop
+##Read me file ##
+About project....
+New changes
+Changes for a new bracnch
+New row for the developer branch
