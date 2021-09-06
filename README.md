@@ -1,5 +1,5 @@
 ##REad me file ##
 About project
 123 my changes
-for new bracnch
+for new branch
 my row for develop
